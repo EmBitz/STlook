@@ -11,3 +11,7 @@ Beyond being fun to develop, a **software clone** is useful because it provides 
 By leveraging the existing command structure, development can proceed quickly, and all necessary test tools are readily available through existing GDB servers, such as **EBlink**.  
 
 This project is primarily for **educational fun**, but it also aims to deliver a **truly useful result**.
+
+### Build Environment
+
+The project is an **EmBitz** project. For more information, visit [EmBitz.org](https://EmBitz.org).
